@@ -1,0 +1,6 @@
+Order of operations for each team member: The general order of operations looks like this:
+
+1. Create a named branch, make a change/addition to the story
+2. Create a pull request to indicate you'd like a second pair of eyes to view/edit your addition
+3. The second person changes/approves the change and merges the change. Be sure to delete the old branch (Links to an external site.)!
+4. The second person starts a new branch and begins the process again, with the next person on your team.
