@@ -5,3 +5,11 @@
   "Hello, my name is Bob."
   "Hi Bob! How can we help you?"
   "Can I wish for a million wishes? And how much is this gonna cost me?"
+  "Well today is your lucky day because today and today only we are having a million wishes promotion." 
+  "Thats random" said Bob
+  "Well we are here to make wishes come true Bob" 
+  "Alright tell me about this promotion" 
+  "Well, if you press this button right now you will get one million wish" 
+  "What butto_"
+  *Drone flys in with a box" 
+  "the is a caveat to this bob, if you push the button a random person will die"
